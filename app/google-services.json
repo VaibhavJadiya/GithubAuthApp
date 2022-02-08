@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971237242014",
+    "project_id": "githubauth-f1ec6",
+    "storage_bucket": "githubauth-f1ec6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971237242014:android:4302315e59ab164583f78f",
+        "android_client_info": {
+          "package_name": "com.printoverit.guthubauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971237242014-5fus2le9t9bn00jtin4c7ud54udo2s5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrDB5m1NPB_qVfZr2YJMAYm6R2M2lhE-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971237242014-5fus2le9t9bn00jtin4c7ud54udo2s5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
